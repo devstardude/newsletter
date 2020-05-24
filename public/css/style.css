@@ -1,0 +1,133 @@
+body {
+  padding: 0;
+  overflow-x: hidden;
+}
+/* ----------Left pane section */
+
+.mailchimp-heading{
+  font-size: 3.5rem!important;
+  font-weight: 500;
+  line-height: 10px;
+  
+}
+
+.left-pane {
+  text-align: center;
+  min-height: 100vh;
+  background: rgb(63, 175, 159);
+  background: linear-gradient(
+    90deg,
+    #3faf9f 0%,
+    #48bead 66%,
+    #5dd4c2 100%
+  );
+}
+
+.left-content{
+    margin-top: 11vh;
+}
+
+.chimp-img {
+    background-color: #5be0cc;
+    filter: invert(5%);
+    margin-top: 10vh;
+    width: 30vh;
+    border: 8px solid #23282c!important;
+    border-radius: 100%;
+  }
+
+.mailchimp{
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-family: 'Reem Kufi', sans-serif;
+    line-height: 3rem;
+}
+
+/* -----------Right Pane Section */
+.right-pane {
+  text-align: center;
+  border: none;
+  min-height: 100vh;
+  background: rgb(49, 63, 82);
+  background: linear-gradient(
+    90deg,
+    rgba(49, 63, 82, 1) 0%,
+    rgba(53, 70, 94, 1) 66%,
+    rgba(53, 70, 94, 1) 100%
+  );
+}
+
+
+/* ---sign in  */
+.user{
+  
+  height: 150px;
+  width: 140px;
+  
+}
+.form-signin {
+  text-align: left;
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.h3{
+  font-size: 2rem!important;
+  font-family: 'Reem Kufi', sans-serif;
+    line-height: 3rem;
+    color: #3faf9f;
+    margin-left: 0;
+}
+.btn-dark{
+  background-color:#3faf9f!important ;
+  border: none;
+  outline: none;
+}
+.right-content{
+  margin-top: 10vh;
+}
+
+label{
+  color: aliceblue;
+}
+.input-field{
+  color: azure!important;
+  background-color: rgba(49, 63, 82, 1)!important;
+  border: none;
+  margin-bottom: 12px;
+}
+
+
+
+/* -------------Media Query */
+@media (max-width: 768px) {
+  .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+  }
+  .chimp-img{
+    margin: 2vh;
+  }
+  .mailchimp{
+    font-size: 2.25rem;
+    padding: 1.5rem;
+    margin-top: 1rem;
+  }
+  .left-content{
+    margin-top: 1rem;
+  }
+  .left-pane{
+    min-height: 90vh;
+  }
+  .user{
+    height: 200px;
+    width: 190px;
+    
+  }
+  .mailchimp-heading{
+    margin-top: 10vh!important;
+    line-height: 3.7rem!important;
+  }
+}
+

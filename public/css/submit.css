@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(49, 63, 82) !important;
+  text-align: center !important;
+}
+
+.check {
+  color: blue !important;
+}
+
+span {
+  font-size: 4rem;
+  color: #3faf9f;
+}
+
+.btn:hover {
+    color: #ffffff!important;
+    background-color: #3faf9f!important;
+}
+.btn,.btn:active{
+    color: #3faf9f!important;
+}
+.btn,.btn:visited{
+    color: #3faf9f!important;
+}
+
+.btn,.btn:focus {
+  border-color: #3faf9f !important;
+}
