@@ -31,7 +31,7 @@ Using an API to fetch the data was also first time for me.
 
 ### 🔗 Links 
 ---
-##### See Portfolio Website at: [Portfolio](https://devdude.web.app/ "Portfolio")
 ##### See Live Running App on:  [Mailchimp Newsletter](https://mailchimpnewsletterproject.herokuapp.com/ "Mailchimp Newsletter") 
+##### See Portfolio Website at: [Portfolio](https://devstardude.web.app/ "Portfolio")
 
 
