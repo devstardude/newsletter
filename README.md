@@ -24,8 +24,8 @@ Using an API to fetch the data was also first time for me.
 
 ### Technology Stack ⚙️
 ---
-- Node
-- Express with Ejs template
+- Node.js with Express
+- Ejs template
 - Html, CSS, JS with Bootstrap
 
 ### Links 🔗
