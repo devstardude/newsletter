@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://i.ibb.co/7Yx1GXt/letter.png">
 </p>
 
-### Introduction 📌
+### Introduction 🌟
 ---
 Bring your audience data, marketing channels, and insights together so you can reach your goals faster—all from a single platform. i.e Mailchimp.
 'Mailchimp Newsletter' is a simple form to take the user's details and send them to Mailchimp from its API and you can manage all you subscriber from your mailchimp dashboard.
