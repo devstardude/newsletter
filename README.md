@@ -1,6 +1,6 @@
 # 📨 Mailchimp Newsletter
-<p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/7Yx1GXt/letter.png">
+<p align="left">
+  <img width="70%" src="https://i.ibb.co/7Yx1GXt/letter.png">
 </p>
 
 ### 🌟 Introduction 
