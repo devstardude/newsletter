@@ -1,4 +1,4 @@
-# Mailchimp Newsletter
+# 📨 Mailchimp Newsletter
 <p align="center">
   <img width="460" height="300" src="https://i.ibb.co/7Yx1GXt/letter.png">
 </p>
@@ -11,6 +11,7 @@ Bring your audience data, marketing channels, and insights together so you can r
 ---
 Just fill out the Form by providing your details and click on Sign up.
 That's it. Your're subscribed to the automated Newsletter.
+#### See Working of App on Youtube: [Video](https://youtu.be/TIwXFr1zYrE "Video")
 
 ### Why I Made This App 👨‍💻
 ---
@@ -32,6 +33,5 @@ Using an API to fetch the data was also first time for me.
 ---
 ##### See Portfolio Website at: [Portfolio](https://devdude.web.app/ "Portfolio")
 ##### See Live Running App on:  [Mailchimp Newsletter](https://mailchimpnewsletterproject.herokuapp.com/ "Mailchimp Newsletter") 
-##### See Working of App on Youtube: [Video](https://youtu.be/TIwXFr1zYrE "Video")
 
 
