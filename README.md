@@ -14,7 +14,7 @@ That's it. Your're subscribed to the automated Newsletter.
 
 ### Why I Made This App 👨‍💻
 ---
-This App will help a person or authority to collect details or its targetted audience and send their news of thoughts in form of a Newsletter.
+This App will help a person or authority to collect details of its targetted audience and send their news of thoughts in form of a Newsletter.
 
 ### What I Learned while making this App 💌
 ---
